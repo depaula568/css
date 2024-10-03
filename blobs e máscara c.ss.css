@@ -1,0 +1,5 @@
+.blob {
+    mask-image: var(--mask-blob-1);
+    background-color: var(--blue-5);
+  }
+  
